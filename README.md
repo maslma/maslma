@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maslma Alzebda</h1>
 <h3 align="center"> Software Engineering | with +2 year experience in the mobile app developer📱💻 </h3>
-<h3 align="center"> Junior Front-End-Developer Html-Css-JavaScript-ReactJs </h3>
 
 <br><br>
 
