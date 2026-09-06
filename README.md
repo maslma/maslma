@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maslma Alzebda</h1>
 <h3 align="center"> Software Engineering | with +2 year experience in the mobile app developer📱💻 </h3>
 
-<br><br>
+<!-- <br><br> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maslma" alt="maslma" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maslma" alt="maslma" /></a> </p> -->
 
 <br>
 
